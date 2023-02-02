@@ -1,0 +1,15 @@
+D:\vsc\C#\HW8_sem\Task58\bin\Debug\net7.0\Task58.exe
+D:\vsc\C#\HW8_sem\Task58\bin\Debug\net7.0\Task58.deps.json
+D:\vsc\C#\HW8_sem\Task58\bin\Debug\net7.0\Task58.runtimeconfig.json
+D:\vsc\C#\HW8_sem\Task58\bin\Debug\net7.0\Task58.dll
+D:\vsc\C#\HW8_sem\Task58\bin\Debug\net7.0\Task58.pdb
+D:\vsc\C#\HW8_sem\Task58\obj\Debug\net7.0\Task58.csproj.AssemblyReference.cache
+D:\vsc\C#\HW8_sem\Task58\obj\Debug\net7.0\Task58.GeneratedMSBuildEditorConfig.editorconfig
+D:\vsc\C#\HW8_sem\Task58\obj\Debug\net7.0\Task58.AssemblyInfoInputs.cache
+D:\vsc\C#\HW8_sem\Task58\obj\Debug\net7.0\Task58.AssemblyInfo.cs
+D:\vsc\C#\HW8_sem\Task58\obj\Debug\net7.0\Task58.csproj.CoreCompileInputs.cache
+D:\vsc\C#\HW8_sem\Task58\obj\Debug\net7.0\Task58.dll
+D:\vsc\C#\HW8_sem\Task58\obj\Debug\net7.0\refint\Task58.dll
+D:\vsc\C#\HW8_sem\Task58\obj\Debug\net7.0\Task58.pdb
+D:\vsc\C#\HW8_sem\Task58\obj\Debug\net7.0\Task58.genruntimeconfig.cache
+D:\vsc\C#\HW8_sem\Task58\obj\Debug\net7.0\ref\Task58.dll

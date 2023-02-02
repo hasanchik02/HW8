@@ -1,0 +1,15 @@
+D:\vsc\C#\HW8_sem\Task62\bin\Debug\net7.0\Task62.exe
+D:\vsc\C#\HW8_sem\Task62\bin\Debug\net7.0\Task62.deps.json
+D:\vsc\C#\HW8_sem\Task62\bin\Debug\net7.0\Task62.runtimeconfig.json
+D:\vsc\C#\HW8_sem\Task62\bin\Debug\net7.0\Task62.dll
+D:\vsc\C#\HW8_sem\Task62\bin\Debug\net7.0\Task62.pdb
+D:\vsc\C#\HW8_sem\Task62\obj\Debug\net7.0\Task62.csproj.AssemblyReference.cache
+D:\vsc\C#\HW8_sem\Task62\obj\Debug\net7.0\Task62.GeneratedMSBuildEditorConfig.editorconfig
+D:\vsc\C#\HW8_sem\Task62\obj\Debug\net7.0\Task62.AssemblyInfoInputs.cache
+D:\vsc\C#\HW8_sem\Task62\obj\Debug\net7.0\Task62.AssemblyInfo.cs
+D:\vsc\C#\HW8_sem\Task62\obj\Debug\net7.0\Task62.csproj.CoreCompileInputs.cache
+D:\vsc\C#\HW8_sem\Task62\obj\Debug\net7.0\Task62.dll
+D:\vsc\C#\HW8_sem\Task62\obj\Debug\net7.0\refint\Task62.dll
+D:\vsc\C#\HW8_sem\Task62\obj\Debug\net7.0\Task62.pdb
+D:\vsc\C#\HW8_sem\Task62\obj\Debug\net7.0\Task62.genruntimeconfig.cache
+D:\vsc\C#\HW8_sem\Task62\obj\Debug\net7.0\ref\Task62.dll
